@@ -1,27 +1,27 @@
-🧠 Brain Disease Detection (MRI)
-EfficientNetB7-based application for detecting Brain Tumor and Alzheimer’s Disease from MRI scans.
-🚀 Getting Started
-🛠️ Step-by-Step Instructions
-📥 Download & Extract the Project
+1.🧠 Brain Disease Detection (MRI)
+    EfficientNetB7-based application for detecting Brain Tumor and Alzheimer’s Disease from MRI scans.
+2.🚀 Getting Started
+3.🛠️ Step-by-Step Instructions
+4.📥 Download & Extract the Project
         Download the ZIP file from this GitHub repository.
         Extract it to your preferred location
-🖥️ Open Command Prompt
+5.🖥️ Open Command Prompt
         Press Windows + R, type cmd, and hit Enter.
-📂 Navigate to the Project Folder
+6.📂 Navigate to the Project Folder
         Run the following command (adjust the path if needed):
         cd C:\Users\YourName\Projects\BrainDiseaseDetection
-📥 Download the Pretrained Model
+7.📥 Download the Pretrained Model
         The trained EfficientNetB7 model (~200MB) is stored on Google Drive.
         Download it from here:
             https://drive.google.com/file/d/1MHMVbHaaR2Ar8UxQaGdFCB9j8D9liqOE/view?usp=sharing
         Place the file in the project root folder, alongside app.py
-🚀 Start the Flask App
+8.🚀 Start the Flask App
         Run this command in the project root folder:
                 python app.py
-🌐 Open in Browser
+9.🌐 Open in Browser
         Once the server starts, open your browser and go to:
               http://127.0.0.1:5000/
-📱 Test the Application
+10.📱 Test the Application
         Upload an MRI scan image.
         The app will process the image and predict whether it belongs to:
         Normal(Healthy Brain)
