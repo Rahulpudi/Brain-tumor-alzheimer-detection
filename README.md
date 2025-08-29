@@ -24,7 +24,9 @@
 
         The trained EfficientNetB7 model (~200MB) is stored on Google Drive.
         Download it from here:
+        
             https://drive.google.com/file/d/1MHMVbHaaR2Ar8UxQaGdFCB9j8D9liqOE/view?usp=sharing
+            
         Place the file in the project root folder, alongside app.py
         
 8.🚀 Start the Flask App
